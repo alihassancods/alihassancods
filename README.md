@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Ali Hassan 👋
 
-<!--
-**alihassancods/alihassancods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+- 🎓 Computer Scientist'28
+- 💼 Freelancer | Backend Dev | Web Scraping Bot Developer
+- 🔧 Tech Stack: Python, Django, JavaScript, C++, Playwright, etc.
+- 🌱 Currently learning: DSA, Cloud Computing, Azure, Operating Systems, React
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 🔗 [Logical Reasoning Assistant](https://github.com/alihassancods/discrete-structures-project/)
+- 🔗 [SwiftChat](https://github.com/alihassancods/swiftchat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihassancods&show_icons=true&theme=radical)
+
+## 🛠️ Tools I Use
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
+
+## 📫 Connect with Me
+- 📬 [Email](mailto:alihassancodes+github@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/alihassancodes)
