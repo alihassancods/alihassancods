@@ -12,6 +12,9 @@
 
 ## 📈 GitHub Stats
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihassancods&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alihassancods&layout=compact)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=alihassancods)
+
 
 ## 🛠️ Tools I Use
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
