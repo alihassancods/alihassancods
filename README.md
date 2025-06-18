@@ -9,6 +9,8 @@
 ## 🚀 Projects
 - 🔗 [Logical Reasoning Assistant](https://github.com/alihassancods/discrete-structures-project/)
 - 🔗 [SwiftChat](https://github.com/alihassancods/swiftchat)
+- 🔗 [Django Video Suite](https://github.com/alihassancods/video-suite-django)
+- 🔗 [Keylogger Python](https://github.com/alihassancods/keylogger-python)
 
 ## 📈 GitHub Stats
 ![](https://komarev.com/ghpvc/?username=alihassancods&label=Profile%20views)
