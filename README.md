@@ -17,8 +17,6 @@
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alihassancods&layout=compact)
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=alihassancods)]
-<br>
 ![Top languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alihassancods&theme=default)
 
 
